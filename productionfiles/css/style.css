@@ -1,0 +1,13 @@
+img {
+	width: 80px;
+	height: 80px;
+}
+
+a {
+	color: white;
+	display: inline-block;
+}
+
+ul>li {
+	list-style-type: none;
+}
